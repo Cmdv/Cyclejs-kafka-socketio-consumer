@@ -6,6 +6,8 @@ This is an example consumer for Kafka using CycleJS + Kafka + Socket.IO
 
 \* *missing tests*
 
+\* *the backend Rx filtering is bassed on the schema I was using for app, this would have to be reset to return what you needed*
+
 ## Installation
 
 ```javascript
